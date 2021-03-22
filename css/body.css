@@ -1,5 +1,10 @@
 body{  
-  background-image: url('../images/hacker.jpg');  
+  background-image: url("../images/hacker.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+
+  background-position: center;
+
 }
 
 p{
