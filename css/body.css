@@ -2,9 +2,9 @@ body{
   background-image: url("../images/hacker.jpg");
   background-repeat: no-repeat;
   background-attachment: fixed;
-
   background-position: center;
-
+  background-size: cover;
+  background-color: lightblue;
 }
 
 p{
