@@ -10,3 +10,16 @@ body{
 p{
 	color:red;
 }
+
+#header{
+	background-color: yellow;
+	width: 100px;
+	float: left;
+}
+
+#footer{
+	clear: both;
+	background-color: green;
+	width: 100%;
+	float: bottom;
+}
